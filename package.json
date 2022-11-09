@@ -1,6 +1,9 @@
 {
   "name": "@mkmk4423/prettier-config",
-  "version": "0.0.1",
+  "repository": "ssh://git@github.com/hir0o/prettier-config.git",
+  "author": "hir0o",
+  "version": "0.0.5",
+  "license": "MIT",
   "description": "",
   "main": "index.js",
   "license": "MIT",
